@@ -1,0 +1,11 @@
+/*
+The filename of custom hooks should start with use
+Initially we can type in the input box but when we refresh the page eveything is blank
+
+The useLocalStorage hook can use other hooks inside it
+
+
+
+
+
+*/
